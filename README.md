@@ -1,6 +1,6 @@
 # rest-api Setting
 1. Place wokaRest-server in your htdocs folder
-2. Create a .htaccess file 
+2. Create a .htaccess file in wokaRest-server folder
 3. Write this on your .htaccess file :
     ```bash
     RewriteEngine On
